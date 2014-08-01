@@ -1,0 +1,21 @@
+{
+  "name": "selector-listeners",
+  "version": "1.0.0",
+  "description": "Listen for CSS selector rule matches at document or element level",
+  "main": "selector-listeners.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atmin/SelectorListener.git"
+  },
+  "keywords": [
+    "css",
+    "selector",
+    "listener"
+  ],
+  "author": "Daniel Buchner",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "bugs": {
+    "url": "https://github.com/atmin/SelectorListener/issues"
+  },
+  "homepage": "https://github.com/atmin/SelectorListener"
+}
